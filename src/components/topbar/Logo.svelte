@@ -1,9 +1,9 @@
 <a
-    href="https://github.com/SITU-Research/codec"
+    href="https://www.acumeforensic.com/"
     target="_blank"
     rel="noopener noreferrer"
 >
-    <img src="./logos/situ codec logo.svg" alt="situ codec logo" />
+    <img src="./logos/acume-logo.png" alt="acume codec logo" />
 </a>
 
 <style>
