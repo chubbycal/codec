@@ -11,7 +11,7 @@
         }
     }
 
-    let modules = ["map", "media"];
+    let modules = ["map", "timeline", "media"];
 </script>
 
 <div id="view_text" class="text_level1 noselect"><span> view: </span></div>
@@ -21,8 +21,8 @@
         class="box text_level1 noselect {$ui_store.modules_in_view.includes(
             module
         )
-            ? 'module_button_in_view'
-            : ''}"
+            ? ''
+            : 'module_button_in_view'}"
         on:click={() => toggle_module(module)}>{module}</button
     >
 {/each}
