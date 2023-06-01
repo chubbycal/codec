@@ -18,82 +18,29 @@
                 <div>
                     <div class="text_level1">DESCRIPTION</div>
                     <p>
-                        A response to the deluge of visual information flowing
-                        out of conflict environments and contested events, Codec
-                        is designed to support the work of researchers,
-                        journalists, legal teams, activist groups and others in
-                        adjacent fields. While the tool has many potential
-                        applications, the driving goal has been to further
-                        investigations, amplify truth, and pursue accountability
-                        for human rights abuses. The interface is a modular
-                        system split into three components: a timeline, a map,
-                        and a media player that allows users to securely
-                        synthesize large data sets of multimedia assets across
-                        the time and space of an event or series of events.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                     </p>
 
                     <p>
-                        Codec originally emerged as a byproduct of attempting to
-                        solve recurring challenges in our investigative
-                        workflows—issues around collaboration, rapid
-                        visualization, and the management of video evidence.
-                        While the amount of user-generated content has increased
-                        exponentially in recent years, managing the sheer volume
-                        of material can become inefficient at best and, often,
-                        simply prohibitive. Codec is designed to make this
-                        process collaborative, streamlined, efficient and
-                        intuitive. Research and development for this beta
-                        version unfolded across various cases, and through
-                        collaborating with partners including: Carnegie Mellon
-                        University’s Center for Human Rights Science, Amnesty
-                        International, UC Berkeley's Human Rights Center,
-                        Columbia Law School’s Human Rights Initiative, Human
-                        Rights Watch, UNITAD and many more.
+                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
                     </p>
                 </div>
                 <div>
                     <div class="text_level1">CONTACT</div>
                     <p>
-                        If you'd like to work with us on using or developing
-                        Codec, please fill out <a
-                            href="https://forms.gle/7Pg7GPZmYpN6CVSa9"
-                            target="_blank"
-                            rel="noopener noreferrer">this form</a
-                        >. Otherwise, send us an email at codec@situ.nyc. As a
-                        small team, we won't be able to work with all
-                        collaborators, but we will do our best to support
-                        serious inquiries. We have written out detailed
-                        instructions on
-                        <a
-                            href="https://github.com/SITU-Research/codec"
-                            target="_blank"
-                            rel="noopener noreferrer">GitHub</a
-                        > to help you get started without the need for direct communication.
+                        At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat
                     </p>
 
                     <p style="color:var(--grey2)">
-                        For non-commercial projects or entities, Mapbox may be
-                        able to provide account support and discounts. Contact
-                        community@mapbox.com to describe your Codec use case and
-                        request Mapbox account support.
+                        
                     </p>
 
                     <p style="color:var(--grey2)">
-                        Graphic identity and UI consultancy by <a
-                            href="https://scasascia.com/"
-                            target="_blank"
-                            rel="noopener noreferrer">Studio Scasascia</a
-                        >.
+                       
                     </p>
 
                     <p style="color:var(--grey2)">
-                        <a
-                            href="https://choosealicense.com/licenses/agpl-3.0/"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                        >
-                            License
-                        </a>
+                      
                     </p>
                 </div>
             </div>
