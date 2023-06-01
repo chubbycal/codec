@@ -21,8 +21,8 @@
         class="box text_level1 noselect {$ui_store.modules_in_view.includes(
             module
         )
-            ? ''
-            : 'module_button_in_view'}"
+            ? 'module_button_in_view'
+            : ''}"
         on:click={() => toggle_module(module)}>{module}</button
     >
 {/each}
